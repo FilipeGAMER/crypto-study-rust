@@ -2,7 +2,7 @@
 
 > A study project to better understand blockchain
 
-![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/FilipeGAMER/crypto-study-rust?label=REPO%20SIZE&style=for-the-badge)
 
 ## 💻 Requirements
 
